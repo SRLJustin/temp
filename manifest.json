@@ -1,0 +1,436 @@
+{
+	"artifacts": [
+		{
+			"name": "AntiDrag.jar",
+			"plugins": ["net.runelite.client.plugins.keydrag.KeyDragPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/AntiDrag.jar",
+			"hash": "e07c5cb7416bb06e7ee6233e38673ebd2c9607741645944a1f47c28b721ff123",
+			"description": "Keybind anti drag."
+		},
+		{
+			"name": "Bingo.jar",
+			"plugins": ["net.runelite.client.plugins.bingo.BingoPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/Bingo.jar",
+			"hash": "5610341bd700caa9cece45797d768636d3a2f4aef37285dfa8c180c4b72a9006",
+			"description": "Steroids made this- not me. Bingo code overlay."
+		},
+		{
+			"name": "CorpAdditions.jar",
+			"plugins": ["net.runelite.client.plugins.corpboost.CorpBoostPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/CorpAdditions.jar",
+			"hash": "bb612975e898ae34520d985e72f31551b34ea3b3cb0e04f7d36fabc0c82591dc",
+			"description": "Dark core stunning MES and boosting plugins"
+		},
+		{
+			"name": "CoxAdditions.jar",
+			"plugins": ["net.runelite.client.plugins.coxadditions.CoxAdditionsPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/CoxAdditions.jar",
+			"hash": "d234b56db5f71f99dcead25e9c4cb3425fb20cf27ec1773b5d7cfaa53a794a41",
+			"description": "Additional plugins for the Chambers of Xeric"
+		},
+		{
+			"name": "CoxFloorSplits.jar",
+			"plugins": ["net.runelite.client.plugins.coxfloorsplits.CoxFloorSplitsPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/CoxFloorSplits.jar",
+			"hash": "87eabe608a2394a6b7c408c36c6d15baf519d1421b2a917b757851f9c48ea214",
+			"description": "Detailed floor splits for Cox"
+		},
+		{
+			"name": "CoxPrep.jar",
+			"plugins": ["net.runelite.client.plugins.coxprep.CoxPrepPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/CoxPrep.jar",
+			"hash": "f8ded0e2dc44cda0c3a2cc87b5ac2dc558f67c891fffcc0b4c790dd690a5477d",
+			"description": "Track prep shit woo yay"
+		},
+		{
+			"name": "CoxScouterExt.jar",
+			"plugins": ["net.runelite.client.plugins.raidscouterext.RaidScouterExtPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/CoxScouterExt.jar",
+			"hash": "7a0ce75350b8a7f406ff98b2c4d6dee4dbaded0cb455a200f2ef7b5ca99643ad",
+			"description": "Additional stuff for cox scouting"
+		},
+		{
+			"name": "CoxSpoonTimers.jar",
+			"plugins": ["net.runelite.client.plugins.coxspoontimers.CoxSpoonTimersPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/CoxSpoonTimers.jar",
+			"hash": "bd99233cfdac9591e605fe761e2306e939d8129872fb745fb9d3dbb3840a396a",
+			"description": "De0's Cox Timers with an overlay to show current room/phase time."
+		},
+		{
+			"name": "DiscoInferno.jar",
+			"plugins": ["net.runelite.client.plugins.discoinferno.DiscoInfernoPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/DiscoInferno.jar",
+			"hash": "84f97686042345ace0dfeb7edf306f0b5dcb4c97ad7e5ce2972ea89b0f35863b",
+			"description": "Burn baby burn! (Only works in Inferno)"
+		},
+		{
+			"name": "DiscoOnTheGo.jar",
+			"plugins": ["net.runelite.client.plugins.discoonthego.DiscoOnTheGoPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/DiscoOnTheGo.jar",
+			"hash": "2a011131c9f8ef941107e2b294d56e76d620b0a1679662a31bc949b2f572c014",
+			"description": "Its time to get funky....."
+		},
+		{
+			"name": "EffectTimers.jar",
+			"plugins": ["net.runelite.client.plugins.effecttimers.EffectTimersPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/EffectTimers.jar",
+			"hash": "9cbb2549c9bf15717ee289fb51eb2cf3461558f9f0a725e6e83c085ee5ae2757",
+			"description": "Effect timers on NPCs and Players"
+		},
+		{
+			"name": "GwdEssenceHider.jar",
+			"plugins": ["net.runelite.client.plugins.gwdessencehider.GwdEssenceHiderPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/GwdEssenceHider.jar",
+			"hash": "d65dd1411b175b50edc22c43d2b1ab70702e486ba481c1aa0793dd28cddf37a7",
+			"description": "Replaces the Gwd kc overlay with a better one"
+		},
+		{
+			"name": "GwdTimers.jar",
+			"plugins": ["net.runelite.client.plugins.gwdtimers.GwdTimersPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/GwdTimers.jar",
+			"hash": "2386717ccc5f71297747aae2d94f8703bf46fca3edbce30e50e6d9ee889cea8e",
+			"description": "Tick timers for Godwars bosses"
+		},
+		{
+			"name": "HideUnder.jar",
+			"plugins": ["net.runelite.client.plugins.hideunder.HideUnderPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/HideUnder.jar",
+			"hash": "49e899bca0fd1be60eca730d118254da51d5a9401b2028c93547e0c22b1fb0a1",
+			"description": "Hides your player when you stand underneath other players"
+		},
+		{
+			"name": "HopTimer.jar",
+			"plugins": ["net.runelite.client.plugins.hoptimer.HopTimerPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/HopTimer.jar",
+			"hash": "e2853eb82fe60e9b007b88c0351ee11c0fc2a0d252eb6a4ff1f9a616af2946bc",
+			"description": "Displays how long before you can hop worlds after combat."
+		},
+		{
+			"name": "HotkeyWalkUnder.jar",
+			"plugins": ["net.runelite.client.plugins.shiftclickwalker.ShiftClickWalkerPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/HotkeyWalkUnder.jar",
+			"hash": "1399e69267b840edc4537794b3ac3248e01fb8552c50419019e7e86a05ac73d7",
+			"description": "Same shit as bluelite shift walk under, but with a hotkey."
+		},
+		{
+			"name": "MouseOverText.jar",
+			"plugins": ["net.runelite.client.plugins.mouseovertext.MouseOverTextPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/MouseOverText.jar",
+			"hash": "2136eeb1e0e9880e3a455bb0f9fe1e4bd938e270fe3e5121e41818baa3790e57",
+			"description": "Uses the ::mouseovertext command"
+		},
+		{
+			"name": "MultiLines.jar",
+			"plugins": ["net.runelite.client.plugins.multiindicators.MultiIndicatorsPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/MultiLines.jar",
+			"hash": "a46f19f1cde371f05af26a2bb12585e11bd1480d37549837679d759edc6ebd9d",
+			"description": "Show borders of multicombat and PvP safezones"
+		},
+		{
+			"name": "NeverLogout.jar",
+			"plugins": ["net.runelite.client.plugins.neverlog.NeverLog"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/NeverLogout.jar",
+			"hash": "40e9982780e2a786d151961c8ad20f3ce8525ed008b72bee205fd9dc43b710c8",
+			"description": "Enable this and you will never log out"
+		},
+		{
+			"name": "OutgoingChatFilter.jar",
+			"plugins": ["net.runelite.client.plugins.outgoingchatfilter.OutgoingChatFilterPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/OutgoingChatFilter.jar",
+			"hash": "63101673a49729f86336fc05c3ac4d74e47b66c513cb5451115fd5a3595b75ec",
+			"description": "So you toxic cunts don't get muted"
+		},
+		{
+			"name": "PhoenixNecklace.jar",
+			"plugins": ["net.runelite.client.plugins.phoenixnecklace.PhoenixNecklacePlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/PhoenixNecklace.jar",
+			"hash": "9f2cd299a496c00f5e4444a615baf1887a357d8eb607c035e0041d23a27758b9",
+			"description": "Lets you know when a pneck is equipped or not"
+		},
+		{
+		    	"name": "PvpPlayerIndicators.jar",
+		    	"plugins": ["net.runelite.client.plugins.pvpplayerindicators.PvPPlayerIndicatorsPlugin"],
+		    	"version": "1.00",
+		    	"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/PvpPlayerIndicators.jar",
+		    	"hash": "7c16bec5862426de7697f494e2f1093ba518478414560040123f9e2232db6d08",
+		    	"description": "Player indicators with pvp options and more highlights"
+        	},
+		{
+			"name": "SoulWars.jar",
+			"plugins": ["net.runelite.client.plugins.soulwars.SoulWarsPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/SoulWars.jar",
+			"hash": "0c3e25cef181834494a3f5be33f39bef2dc2d652923dcafbed114ec25379225d",
+			"description": "Removes cast on teammates in Soul Wars"
+		},
+		{
+			"name": "SpawnTimer.jar",
+			"plugins": ["net.runelite.client.plugins.spawntimer.SpawnTimerPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/SpawnTimer.jar",
+			"hash": "807ff2a4397f3006dc70ee89500ee1ab4c3ef74099e29ff6448272d3c9fad685",
+			"description": "Shows NPC'S time since spawned"
+		},
+		{
+			"name": "SpoonBarrows.jar",
+			"plugins": ["net.runelite.client.plugins.spoonbarrows.sBarrowsPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/SpoonBarrows.jar",
+			"hash": "1683f7f6d2836d2d99d74811bf9e727108570da78d60bb386ee666e14138720a",
+			"description": "Shows map when you are in the tunnels"
+		},
+		{
+			"name": "SpoonBoosts.jar",
+			"plugins": ["net.runelite.client.plugins.spoonboosts.sBoostsPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/SpoonBoosts.jar",
+			"hash": "ce8bbb5fa321edf2f7d0e39af8b1f55c37f8f3db94147466816705746596d845",
+			"description": "OPRS Boosts Information"
+		},
+		{
+			"name": "SpoonEzSwaps.jar",
+			"plugins": ["net.runelite.client.plugins.spoonezswaps.SpoonEzSwapsPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/SpoonEzSwaps.jar",
+			"hash": "543b991378fee4b918557accc6c67a161e02f551633dfbb1c57e53256ba7ddbf",
+			"description": "A shit ton of menu entry swapping and pvm shit"
+		},
+		{
+			"name": "SpoonGauntlet.jar",
+			"plugins": ["net.runelite.client.plugins.spoongauntlet.SpoonGauntletPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/SpoonGauntlet.jar",
+			"hash": "be2f6d43ae04a4a48b12e43b0722dbba2d30786e27c61d534f90254e1a1f46ac",
+			"description": "Lots of Gauntlet shit"
+		},
+		{
+			"name": "SpoonGroundMarkers.jar",
+			"plugins": ["net.runelite.client.plugins.spoongroundmarkers.sGroundMarkerPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/SpoonGroundMarkers.jar",
+			"hash": "1007ff0645cb0e7df6911ee7ded44e0e4f3e4e8e3a15d065d0cb35759fea3dfe",
+			"description": "Enable marking of tiles using the Shift key"
+		},
+		{
+			"name": "SpoonHarambes.jar",
+			"plugins": ["net.runelite.client.plugins.spoondemonicgorilla.DemonicGorillaPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/SpoonHarambes.jar",
+			"hash": "ac4bdd7e6e7a5ddda08fe97f4fbbbb10d22a2872e101e4e73fcd67b809f6c8ec",
+			"description": "Count demonic gorilla attacks and display their next possible attack styles"
+		},
+		{
+			"name": "SpoonInventoryTags.jar",
+			"plugins": ["net.runelite.client.plugins.spooninventorytags.SpoonInventoryTagsPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/SpoonInventoryTags.jar",
+			"hash": "62f429734a1f35b514dd9988d94cd2e579178ef2d6e9dca14ab72345a5c019a4",
+			"description": "Inventory tags remastest edition"
+		},
+		{
+			"name": "SpoonItemCharges.jar",
+			"plugins": ["net.runelite.client.plugins.spoonitemcharges.SpoonItemChargePlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/SpoonItemCharges.jar",
+			"hash": "5a85597743126fee5a308598fb506bc93b40ff11b5022575127ef4e8e82dcfc6",
+			"description": "Can toggle to show rests, divines, and cox pot doses separately"
+		},
+		{
+		    	"name": "SpoonJadHelper.jar",
+		    	"plugins": ["net.runelite.client.plugins.spoonjadhelper.SpoonJadHelperPlugin"],
+		    	"version": "1.00",
+		    	"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/SpoonJadHelper.jar",
+		    	"hash": "8840289fefc37f74bcc20745ecbc6aa79f524742bac5270080277ca68abeee03",
+		    	"description": "Tick timers for Jads"
+        	},
+		{
+		    	"name": "SpoonKillTimers.jar",
+		    	"plugins": ["net.runelite.client.plugins.spoonkilltimers.SpoonKillTimersPlugin"],
+		    	"version": "1.00",
+		    	"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/SpoonKillTimers.jar",
+		    	"hash": "865203d41e8c836c0640d341a398cfbfe16d6ea9c23dc478b02bcd6e1b0ad302",
+		    	"description": "Infobox to display current time during certain boss fights"
+        	},
+		{
+			"name": "SpoonNightmare.jar",
+			"plugins": ["net.runelite.client.plugins.spoonnightmare.SpoonNightmarePlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/SpoonNightmare.jar",
+			"hash": "d3329f761577483792f6d5474be4a08b36d1b535a99b3ce3b9b1aa7870b59b12",
+			"description": "All-in-one plugin for the Nightmare of Ashihama"
+		},
+		{
+		    	"name": "SpoonNpcHighlight.jar",
+		    	"plugins": ["net.runelite.client.plugins.spoonnpchighlight.SpoonNpcHighlightPlugin"],
+		    	"version": "1.00",
+		    	"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/SpoonNpcHighlight.jar",
+		    	"hash": "52148a9a7af08e2f0fd4603fc86928c0505584dfbf3502edd35d1cebdf85c857",
+		    	"description": "NPC Highlights with separate sections for different highlight styles"
+        	},
+		{
+			"name": "SpoonObjectMarkers.jar",
+			"plugins": ["net.runelite.client.plugins.spoonobjectindicators.sObjectIndicatorsPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/SpoonObjectMarkers.jar",
+			"hash": "11271f22052329d098ba743dfadcbe970e461c7a4e1d22d55011a0d59c89e058",
+			"description": "Enable marking of objects using the Shift key"
+		},
+		{
+			"name": "SpoonOpponentInfo.jar",
+			"plugins": ["net.runelite.client.plugins.sopponentinfo.sOpponentInfoPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/SpoonOpponentInfo.jar",
+			"hash": "7aac6bba7c2ca8c4d8df201803a40d32a1bdd2b52505e068b62cc315e5104312",
+			"description": "Show name and hitpoints information about the NPC you are fighting"
+		},
+		{
+			"name": "SpoonRunecraft.jar",
+			"plugins": ["net.runelite.client.plugins.spoonrunecraft.sRunecraftPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/SpoonRunecraft.jar",
+			"hash": "0abaf1db996f4db08a221fc4a1f8ea815a11aac28b1b3f559fa7ad2ad66f9e46",
+			"description": "Show minimap icons and clickboxes for abyssal rifts"
+		},
+		{
+			"name": "SpoonSkybox.jar",
+			"plugins": ["net.runelite.client.plugins.spoonskybox.SpoonSkyboxPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/SpoonSkybox.jar",
+			"hash": "6eb7a929597e3a2b421b2d11a5f8f44dae76a05a4f8b020b2e99f08bf48f3a69",
+			"description": "Skybox (now with rave mode)"
+		},
+		{
+			"name": "SpoonSlayer.jar",
+			"plugins": ["net.runelite.client.plugins.spoonslayer.SpSlayerPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/sSlayer.jar",
+			"hash": "ba34b994429055fa2a2d020aebb28247958d39bc7aea60a9d5e576269998b54b",
+			"description": "RuneLite Slayer with different highlight styles"
+		},
+		{
+			"name": "SpoonSmithing.jar",
+			"plugins": ["net.runelite.client.plugins.spoonsmithing.SpoonSmithingPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/SpoonSmithing.jar",
+			"hash": "a9451013658d06272f4b4b3ef998e9e3c56e1aefd542c70e7c95631cb702d3f5",
+			"description": "Sets which items to allow you to smith"
+		},
+		{
+			"name": "SpoonTempoross.jar",
+			"plugins": ["net.runelite.client.plugins.spoontempoross.SpoonTemporossPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/SpoonTempoross.jar",
+			"hash": "c6449af3363727c523aaa023ec463f427c1c577a788182d1d17bbd19b7c3d967",
+			"description": "All in one Tempoross plugins"
+		},
+		{
+			"name": "SpoonTileIndicators.jar",
+			"plugins": ["net.runelite.client.plugins.spoontileindicators.sTileIndicatorsPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/SpoonTileIndicators.jar",
+			"hash": "0ebe0a3371227eb811a5f51169462f9a067ab5628226d99499ed3a84ab648e69",
+			"description": "Highlight the tile you are currently moving to"
+		},
+		{
+		    	"name": "SpoonTob.jar",
+		    	"plugins": ["net.runelite.client.plugins.spoontob.SpoonTobPlugin"],
+		    	"version": "1.00",
+		    	"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/SpoonTob.jar",
+		    	"hash": "47666574d5485c83b10bf4e7c8368073b7fc5054aa1321982ac9d2330c3f4a4e",
+		    	"description": "All in one Theatre of Blood plugin."
+        	},
+		{
+			"name": "SpoonTobSounds.jar",
+			"plugins": ["net.runelite.client.plugins.tobsounds.TobSoundsPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/SpoonTobSounds.jar",
+			"hash": "19480444b875bac0babf8c49ab8a957f36096e6c591eef85928c92cd0175ad14",
+			"description": "Sounds for various ToB events"
+		},
+		{
+		    	"name": "SpoonTobStats.jar",
+		    	"plugins": ["net.runelite.client.plugins.spoontobstats.SpoonTobStatsPlugin"],
+		    	"version": "1.00",
+		    	"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/SpoonTobStats.jar",
+		    	"hash": "42ce195d64354c5bef99d9a919420e6fe139fca2b8243b7d72b364a2409420cf",
+		    	"description": "Timers and infoboxes for tob"
+        	},
+		{
+			"name": "SpoonVM.jar",
+			"plugins": ["net.runelite.client.plugins.volcanicmine.sVMPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/SpoonVM.jar",
+			"hash": "017385bd9829d07d1c1930bf15a4f0d9e621807c58a8e7f91be653b653708caa",
+			"description": "Useful plugins for Volcanic Mine."
+		},
+		{
+			"name": "SpoonVorkath.jar",
+			"plugins": ["net.runelite.client.plugins.spoonvorkath.VorkathPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/SpoonVorkath.jar",
+			"hash": "3af731389bc4a01f6ce2a04b9ec4d330b19bf8f9f74018f1db5e7e0ef5a24ded",
+			"description": "Vorkath plugin - yoinked and modified slightly."
+		},
+		{
+			"name": "SpoonZalcano.jar",
+			"plugins": ["net.runelite.client.plugins.spoonzalcano.sZalcanoPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/SpoonZalcano.jar",
+			"hash": "a291d02a5db6ccd6c97639d5bb4f34cdcaea59fb556a0690aeb36fd4c213c0ac",
+			"description": "All-in-one plugin for the Zalcano."
+		},
+		{
+			"name": "ToggleChat.jar",
+			"plugins": ["net.runelite.client.plugins.togglechat.ToggleChatPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/ToggleChat.jar",
+			"hash": "1bcb029ecabc8b316ae2877524e4f8dca75ae51667735412d1f61dc9159e2e1b",
+			"description": "Set a hotkey to open/close chatbox and remove the flashing tabs when closed."
+		},
+		{
+			"name": "VmSwimShamer.jar",
+			"plugins": ["net.runelite.client.plugins.vmswimshamer.SwimShamerPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/VmSwimShamer.jar",
+			"hash": "4b2e44c5c7acf12067f5c047f1bf521cee5079ae22f8d232d448da7ba00e1b2c",
+			"description": "Uploads pictures of VM swimmers to discord webhooks"
+		},
+		{
+		    	"name": "EntityHiderPlus.jar",
+		    	"plugins": ["net.runelite.client.plugins.entityhiderplus.EntityHiderPlusPlugin"],
+		    	"version": "1.00",
+		    	"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/EntityHiderPlus.jar",
+		    	"hash": "62429c87de9f49338b102aa218c46d8b50c4d66b1c21e1b62e201429c8467227",
+		    	"description": "Entity hider that can ignore hiding specific npcs"
+        	},
+		{
+			"name": "sScreenshot.jar",
+			"plugins": ["net.runelite.client.plugins.raidscreenshot.RaidScreenshotPlugin"],
+			"version": "1.01",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/0c3700cdaee536dcb7805911a3d174f751dd8a04/sScreenshot.jar",
+			"hash": "72b7a1c3d8a3cf11c27226359b51b8ade995a858ce04fac806784c6fbe300b1f",
+			"description": "Added the option to not take death pics at vangs"
+		}
+	]
+}
